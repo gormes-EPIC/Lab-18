@@ -1,4 +1,4 @@
-# Lab 18
+# ArrayList 2
 ## Temperature Data
 
 Create an ArrayList of temperature data in Celsius. Use `Integer.parseInt()` or similar from the `Integer` wrapper class. 
